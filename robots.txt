@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://espada4897.github.io/espada/sitemap.xml
